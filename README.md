@@ -1,0 +1,2 @@
+- Built an interactive Quality Performance Dashboard in Excel to monitor QA metrics such as resolution rate (80%), average handling time (11.96 mins), compliance (85.39%), and customer satisfaction (CSAT score: 500).
+- Visualized weekly QA performance progression, support channel distribution, and team-wise averages, aiding management in data-driven decision-making and agent-level performance improvement.
